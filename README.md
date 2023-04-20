@@ -1,3 +1,5 @@
+## Python으로 하는 알고리즘 연습
+
 ```
 ┌───────────────────────────────────────────────┐
                                        _       
@@ -10,38 +12,15 @@
 └───────────────────────────────────────────────┘
 ```
 
-# goormIDE
-Welcome to goormIDE!
-
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
-
-`Happy coding! The goormIDE team`
+# IDE
+어디에서나 간편하게 commit 할 수 있고, 코드를 확인할 수 있는 IDE,
+GoormIDE 를 활용하여 알고리즘 연습을 하고 있습니다.
 
 
-## 🔧 Tip & Guide
 
-* Command feature
-	* You can simply run your script using the shortcut icons on the top right.
-	* Check out `PROJECT > Common/Build/Run/Test/Find Command` in the top menu.
-	
-* Get URL and Port
-	* Click `PROJECT > URL/PORT` in top menu bar.
-	* You can get default URL/Port and add URL/Port in the top menu.
+## 💬 
 
-* Useful shortcut
-	
-| Shortcuts name     | Command (Mac) | Command (Window) |
-| ------------------ | :-----------: | :--------------: |
-| Copy in Terminal   | ⌘ + C         | Ctrl + Shift + C |
-| Paste in Terminal  | ⌘ + V         | Ctrl + Shift + V |
-| Search File        | ⌥ + ⇧ + F     | Alt + Shift + F  |
-| Terminal Toggle    | ⌥ + ⇧ + B     | Alt + Shift + B  |
-| New Terminal       | ⌥ + ⇧ + T     | Alt + Shift + T  |
-| Code Formatting    | ⌥ + ⇧ + P     | Alt + Shift + P  |
-| Show All Shortcuts | ⌘ + H         | Ctrl + H         |
+문제 중 이상한 부분이나 개선하면 좋을 부분들을 같이 나누면서 코드를 개선해가는 것도 좋습니다!
+아직은 알고리즘 공부는 부족한 부분이 많아 비판도 감사히 달게 받겠습니다 :)
 
-## 💬 Support & Documentation
 
-Visit [https://ide.goorm.io](https://ide.goorm.io) to support and learn more about using goormIDE.  
-To watch some usage guides, visit [https://help.goorm.io/en/goormide](https://help.goorm.io/en/goormide)
